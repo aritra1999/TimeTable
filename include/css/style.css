@@ -1,0 +1,94 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding:0px;
+}
+.card{
+    /* color: white;
+    background-color: #00001a; */
+}
+.refresh{
+    position:absolute;
+    bottom: 5px;
+    right: 15px;
+    color:white;
+    border:none;
+    border-radius: 30px;
+    padding:10px;
+    width:20%;
+    /* font-size:20px; */
+}
+.details{
+    position:absolute;
+    bottom: 5px;
+    left:15px;
+    /* color:white; */
+    border:none;
+    border-radius: 30px;
+    padding:10px;
+    width:50%;  
+    /* font-size:20px; */
+}
+.card-body{
+    padding:0px 20px 0px 20px;
+    text-align: center;
+}
+.check{
+    
+}
+.body
+{
+    background-color: #000;
+}
+.clear{
+
+}
+.holiday{
+
+}
+.card-title
+{
+    padding-top: 2vh;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p1
+{
+    padding-bottom: 2vh;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer 
+{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+  }
+a:link
+{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	font-size: .8rem;
+	color: rgba(255, 255, 255, 0);
+}
+ a:hover
+ {
+ 	color: #000;
+ 	text-decoration: none;
+ }
+ .back{
+    position:fixed;
+    bottom:35px;
+    right:35px;
+ }
+ .custom{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+ }
+ .header{
+     padding-bottom:2vh;
+     text-align:center;
+ }
